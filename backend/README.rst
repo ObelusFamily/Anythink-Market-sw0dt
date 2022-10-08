@@ -1,8 +1,8 @@
-Getting Started
+Setting up a new environment
 ----------
 
-1. Run docker scripts with ``docker-compose up``
-If needed you can run docker commands with docker exec
+Run docker scripts with ``docker-compose up``
+If needed you can run docker commands with ``docker exec``
 
 
 Web routes
