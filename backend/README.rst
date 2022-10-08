@@ -1,4 +1,4 @@
-Setting up a new environment
+Setting up a new environment.
 ----------
 
 Run docker scripts with ``docker-compose up``
